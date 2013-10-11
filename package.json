@@ -1,5 +1,5 @@
 {
-  "name": "jsBootstrap",
+  "name": "js-bootstrap",
   "version": "0.0.1",
   "description": "Project template for javascript application",
   "main": "public/index.html",
