@@ -1,5 +1,5 @@
 # jsBootstrap
-> Project template for javascript application
+> Project template for javascript application with local server and unit testing
 
 ## Prerequisites
 
