@@ -16,7 +16,6 @@ npm install -g grunt-cli
 git clone https://github.com/tricertc/jsBootstrap.git
 cd jsBootstrap
 npm install
-
 ```
 
 ## Running tasks
