@@ -1,0 +1,19 @@
+{
+  "name": "jsBootstrap",
+  "version": "0.0.1",
+  "description": "ERROR: No README.md file found!",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Tim Rice",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt-open": "~0.2.2",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-jasmine": "~0.5.2"
+  }
+}
